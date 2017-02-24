@@ -1,0 +1,13 @@
+{
+	"Adresse": "",
+	"Ville": "",
+	"properties": 
+	{
+		"Surface": {
+			"type": "integer"
+		},
+		"nb piece": {
+			"type": "integer"
+		},
+	}	
+}
